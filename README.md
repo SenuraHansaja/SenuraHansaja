@@ -1,8 +1,7 @@
 <h1 align="left">Hey There 👋, I'm Senura Hansaja</h1>
  <img align="right" width="400" height="300" src="https://raw.githubusercontent.com/justanoobcoder/justanoobcoder/master/programming.gif">
 
-- 🎓   I'm currently a Electronics and Telecommunication Engineering Student at
-Hanoi University of Science & Technology (HUST).
+- 🎓   I'm a recent graduate with lots of anticipation.
 
 - 🤔   I'm still learning lots of things
 - 🌱 I’m currently learning Deep Reinforcement Learning, Machine Learining and IT
