@@ -1,4 +1,4 @@
-<h1 align="left">Hey There 👋, I'm Senura Hansaja</h1>
+<h1 align="left">Hey There 👋, I'm Senu </h1>
  <img align="right" width="400" height="300" src="https://raw.githubusercontent.com/justanoobcoder/justanoobcoder/master/programming.gif">
 
 - 🎓   I'm a recent graduate with lots of anticipation.
